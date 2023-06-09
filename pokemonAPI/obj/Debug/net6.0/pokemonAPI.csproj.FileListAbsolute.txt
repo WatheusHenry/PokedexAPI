@@ -1,0 +1,156 @@
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.exe
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.deps.json
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.runtimeconfig.json
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.pdb
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.AssemblyReference.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfoInputs.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfo.cs
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CopyComplete
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\refint\pokemonAPI.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.pdb
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.genruntimeconfig.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\ref\pokemonAPI.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cache
+C:\Users\Aula\Documents\DesenvolvimentosC\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cs
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.exe
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.deps.json
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.runtimeconfig.json
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.pdb
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.AssemblyReference.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfo.cs
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cs
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CopyComplete
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\refint\pokemonAPI.dll
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.pdb
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.genruntimeconfig.cache
+C:\Users\muril\source\repos\pokemonAPI\pokemonAPI\obj\Debug\net6.0\ref\pokemonAPI.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.exe
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.deps.json
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.runtimeconfig.json
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.pdb
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.AssemblyReference.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfo.cs
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cs
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CopyComplete
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\refint\pokemonAPI.dll
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.pdb
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.genruntimeconfig.cache
+C:\Users\muril\source\repos\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\ref\pokemonAPI.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.exe
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.deps.json
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.runtimeconfig.json
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\pokemonAPI.pdb
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.AssemblyReference.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfoInputs.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.AssemblyInfo.cs
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.RazorAssemblyInfo.cs
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.csproj.CopyComplete
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\refint\pokemonAPI.dll
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.pdb
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\pokemonAPI.genruntimeconfig.cache
+C:\Users\gonca\OneDrive\Área de Trabalho\pokeapinavarroI\pokemonAPI\obj\Debug\net6.0\ref\pokemonAPI.dll
